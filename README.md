@@ -9,7 +9,8 @@ For me, the purpose is to discover various technologies:
 	- Virtual env
 	- Openpyxl
 - SQL database
-	- SQLite
+    - SQLite
+    - DBeaver
 - Server
 	- Flask
 	- REST API
